@@ -19,10 +19,10 @@ Here you can find projects developed during the course.
 
 <div>
 <ul>
-  <li><a href="https://github.com/AnnaZudilova/theory">Software Testing Theory</a> – </li>
-  <li><a href="https://github.com/AnnaZudilova/design">Test design techniques</a> – </li>
-  <li><a href="https://github.com/AnnaZudilova/docs">Testing Documentation</a> – </li>
-  <li><a href="https://github.com/AnnaZudilova/web">Web application testing</a> – </li>
+  <li><a href="https://github.com/AnnaZudilova/theory">Software Testing Theory</a> – testing methods, types, and levels </li>
+  <li><a href="https://github.com/AnnaZudilova/design">Test design techniques</a> – Equivalence Partitioning and Boundary Value Analysis, Pairwise, Decision Table </li>
+  <li><a href="https://github.com/AnnaZudilova/docs">Testing Documentation</a> – working with QASE, Youtrack </li>
+  <li><a href="https://github.com/AnnaZudilova/web">Web application testing</a> – working with Web application </li>
   <li><a href="https://github.com/AnnaZudilova/api">API Testing</a> – REST and SOAP via Postman</li>
   <li><a href="https://github.com/AnnaZudilova/database">Database operations</a> – working with MySQL and MongoDB</li>
   <li><a href="https://github.com/AnnaZudilova/mobile">Mobile Testing</a> – manual test cases and bug reports, working with Charles Proxy</li>

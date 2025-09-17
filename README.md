@@ -12,7 +12,7 @@ Here you can find projects developed during the course.
 <div>
 <ul>
   <li><a href="https://drive.google.com/file/d/14Jng-SEcVaaV1GiuZP94U_kCj2lew3JR/view?usp=drive_link">CV RUS</a></li>
-  <li><a href="https://drive.google.com/file/d/14Jng-SEcVaaV1GiuZP94U_kCj2lew3JR/view?usp=drive_link">CV ENG</a></li>
+  <li><a href="https://drive.google.com/file/d/1WO6sAAYcklaLXHZ5QbSvfKAgoYmOVT0o/view?usp=drive_link">CV ENG</a></li>
   </ul>
 </div>
 

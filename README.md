@@ -5,10 +5,14 @@
 ### 👨‍💻 Facts about me
 
 I have practical experience working as a manual QA tester for 1C systems. 
-
 To deepen my knowledge and strengthen my theoretical foundation, I completed the “Functional Software Testing” course by Artsiom Rusau.
-
 Here you can find projects developed during the course.
+
+### 📋 My CV
+[!RUS](https://drive.google.com/file/d/14Jng-SEcVaaV1GiuZP94U_kCj2lew3JR/view?usp=drive_link)
+[!ENG](https://drive.google.com/file/d/14Jng-SEcVaaV1GiuZP94U_kCj2lew3JR/view?usp=drive_link)
+
+---
 
 <!--
 - 📫 Contact Information: [![LinkedIn Badge](https://img.shields.io/badge/-@annazudilova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anna-zudilova-6a2424373/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:annazudilova11@gmail.com)

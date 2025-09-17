@@ -9,9 +9,12 @@ To deepen my knowledge and strengthen my theoretical foundation, I completed the
 Here you can find projects developed during the course.
 
 ### 📋 My CV
-[CV RUS](https://drive.google.com/file/d/14Jng-SEcVaaV1GiuZP94U_kCj2lew3JR/view?usp=drive_link)
-
-[CV ENG](https://drive.google.com/file/d/14Jng-SEcVaaV1GiuZP94U_kCj2lew3JR/view?usp=drive_link)
+<div>
+<ul>
+  <li><a href="https://drive.google.com/file/d/14Jng-SEcVaaV1GiuZP94U_kCj2lew3JR/view?usp=drive_link">CV RUS</a></li>
+  <li><a href="https://drive.google.com/file/d/14Jng-SEcVaaV1GiuZP94U_kCj2lew3JR/view?usp=drive_link">CV ENG</a></li>
+  </ul>
+</div>
 
 <!--
 - 📫 Contact Information: [![LinkedIn Badge](https://img.shields.io/badge/-@annazudilova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anna-zudilova-6a2424373/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:annazudilova11@gmail.com)
